@@ -1,2 +1,3 @@
 A Gomoku game implemented with vanilla JavaScript.
-Click [here](https://www.google.com) to try.
+Click [here](https://lukeouyang.github.io/gomoku/) to try.
+![Image of Gomoku](./img/gomoku.png)
